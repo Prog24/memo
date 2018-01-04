@@ -1,5 +1,14 @@
 {
     "styles": {
         "website": "styles/website.css"
+    },
+    "plugins": [
+        "-lunr",
+        "search-languages"
+    ],
+    "pluginsConfig": {
+        "searchLanguages": {
+            "lang": "jp"
+        }
     }
 }
