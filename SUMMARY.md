@@ -1,5 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Test](test.md)
-* [Nefry BT](nefry-bt.md)
+* [雑メモ]()
+  * [Nefry BT](nefry-bt.md)
+  * [LINE Bot](line-bot.md)
+  * [お気に入り](favo.md)
+
