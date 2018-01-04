@@ -1,4 +1,2 @@
 # Introduction
-テストページ  
-テストだよ
 
