@@ -1,7 +1,7 @@
 # お気に入りの色々
 
 ### #ソフト
-- [Quiver](http://happenapps.com/#quiver)
+- [Quiver](http://happenapps.com/#quiver)  
 	Markdownのエディタ  
 	設定を行えばDropBoxなどでデータを共有することが可能.  
 	最近iOS版が公開されたが、閲覧のみで編集機能はない.  
