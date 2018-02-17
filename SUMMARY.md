@@ -4,4 +4,5 @@
   * [Nefry BT](nefry-bt.md)
   * [LINE Bot](line-bot.md)
   * [お気に入り](favo.md)
-
+* [セットアップメモ]()
+  * [knowledge](install-knowledge.md)
